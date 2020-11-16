@@ -24,5 +24,5 @@ SOFTWARE.
 
 GNU Emacs Dojo for Beginners
 
-* GNU Emacs for programming
-* Elisp 
+* [GNU Emacs](https://en.wikipedia.org/wiki/GNU_Emacs) for programming
+* [Emacs Lisp](https://en.wikipedia.org/wiki/Emacs_Lisp) programming 
